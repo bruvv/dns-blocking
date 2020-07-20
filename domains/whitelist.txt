@@ -6,7 +6,7 @@ www.opensubtitles.org
 nitroflare.com
 computertotaal.nl
 pcmweb.nl
-pbs.twimg.com
+spclient.wg.spotify.com
 duo.nl
 serverfault.com
 www.bit.ly
