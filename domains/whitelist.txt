@@ -45,5 +45,26 @@ www.bittrex.com
 socket.bittrex.com
 international.bittrex.com
 cn-geo1.uber.com
-account.xiaomi.com
 ui.awin.com
+partnerprogramma.bol.com
+s.youtube.com
+stats.vatsim.net
+affiliate.gearbest.com
+affiliate-program.amazon.de
+affiliate-program.amazon.com
+affiliate-program.amazon.nl
+track.synology.com
+
+# update xiaomi phones
+account.xiaomi.com
+global.market.xiaomi.com
+update.intl.miui.com
+data.mistat.intl.xiaomi.com
+
+# laat het ad wel zien
+/(\.|^)ad\.nl$/
+/(\.|^)dji\.com$/
+
+# laat website fonts zien
+fonts.gstatic.com
+
