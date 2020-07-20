@@ -1,18 +1,9 @@
 safelinking.net
-telegraaf.nl
 nu.nl
 extratorrent.cc
-tvaddons.ag
-www.tvaddons.ag
-neostrada.nl
-icscards.nl
 opensubtitles.org
 www.opensubtitles.org
-lotustalk.com
-tn.com.ar
-4chan.org
 nitroflare.com
-rapidgator.net
 computertotaal.nl
 pcmweb.nl
 pbs.twimg.com
@@ -23,6 +14,8 @@ bit.ly
 ow.ly
 j.mp
 goo.gl
+images.awin.com
+styleguide.awin.com
 cdn.optimizely.com
 res.cloudinary.com
 imgs.xkcd.com
