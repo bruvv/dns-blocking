@@ -59,6 +59,7 @@ _https._tcp.eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
 telemetry-ingestion.eu-frankfurt-1.oraclecloud.com
 telemetry.eu-frankfurt-1.oraclecloud.com
 eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
+sdk.privacy-center.org
 
 # update xiaomi phones
 account.xiaomi.com
