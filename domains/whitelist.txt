@@ -54,6 +54,11 @@ affiliate-program.amazon.de
 affiliate-program.amazon.com
 affiliate-program.amazon.nl
 track.synology.com
+tc.tradetracker.net
+_https._tcp.eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
+telemetry-ingestion.eu-frankfurt-1.oraclecloud.com
+telemetry.eu-frankfurt-1.oraclecloud.com
+eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
 
 # update xiaomi phones
 account.xiaomi.com
