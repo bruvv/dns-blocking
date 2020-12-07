@@ -25,11 +25,7 @@ dl.dropbox.com
 api.ipify.org
 bleacherreport.com
 www.howtogeek.com
-warez-bb.org
 www.warez-bb.org
-medium.com
-fiverr.com
-beforeitsnews.com
 prod.telemetry.ros.rockstargames.com
 s.click.aliexpress.com
 www.mcssl.com
@@ -60,6 +56,11 @@ telemetry-ingestion.eu-frankfurt-1.oraclecloud.com
 telemetry.eu-frankfurt-1.oraclecloud.com
 eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
 sdk.privacy-center.org
+ojrq.net
+info.microsoft.com
+coinbase-consumer.sjv.io
+tracking.lengow.com
+info.bringme.com
 
 # update xiaomi phones
 account.xiaomi.com
@@ -70,7 +71,7 @@ data.mistat.intl.xiaomi.com
 # laat het ad wel zien
 /(\.|^)ad\.nl$/
 /(\.|^)dji\.com$/
+/(\.|^)tradedoubler\.com$/
 
 # laat website fonts zien
 fonts.gstatic.com
-
