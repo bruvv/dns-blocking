@@ -61,6 +61,17 @@ info.microsoft.com
 coinbase-consumer.sjv.io
 tracking.lengow.com
 info.bringme.com
+cdn.awsbj0.fds.api.mi-img.com
+go.hydeparkishere.nl
+kpngroup.emsecure.net
+
+# fix edge start menu
+arc.msn.com
+
+# zepp app stuff
+app.chat.global.xiaomi.net
+register.xmpush.global.xiaomi.com
+
 
 # update xiaomi phones
 account.xiaomi.com
