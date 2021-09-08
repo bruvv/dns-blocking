@@ -1,47 +1,11 @@
-safelinking.net
-nu.nl
-extratorrent.cc
-opensubtitles.org
-www.opensubtitles.org
-nitroflare.com
-computertotaal.nl
-pcmweb.nl
-spclient.wg.spotify.com
-duo.nl
-serverfault.com
-www.bit.ly
-bit.ly
-ow.ly
-j.mp
-goo.gl
-images.awin.com
-styleguide.awin.com
 cdn.optimizely.com
 res.cloudinary.com
-imgs.xkcd.com
-s.shopify.com
-keystone.mwbsys.com
-dl.dropbox.com
-api.ipify.org
-bleacherreport.com
-www.howtogeek.com
-www.warez-bb.org
 prod.telemetry.ros.rockstargames.com
 s.click.aliexpress.com
-www.mcssl.com
 cookie-script.com
 js.braintreegateway.com
 api.coinbase.com
 gfwsl.geforce.com
-coinmarketcap.com
-binance.com
-www.binance.com
-bittrex.com
-www.bittrex.com
-socket.bittrex.com
-international.bittrex.com
-cn-geo1.uber.com
-ui.awin.com
 partnerprogramma.bol.com
 s.youtube.com
 stats.vatsim.net
@@ -50,19 +14,16 @@ affiliate-program.amazon.de
 affiliate-program.amazon.com
 affiliate-program.amazon.nl
 track.synology.com
-tc.tradetracker.net
 _https._tcp.eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
 telemetry-ingestion.eu-frankfurt-1.oraclecloud.com
 telemetry.eu-frankfurt-1.oraclecloud.com
 eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
 sdk.privacy-center.org
-ojrq.net
 info.microsoft.com
 coinbase-consumer.sjv.io
 tracking.lengow.com
 info.bringme.com
 cdn.awsbj0.fds.api.mi-img.com
-go.hydeparkishere.nl
 kpngroup.emsecure.net
 
 # fix edge start menu
@@ -79,19 +40,23 @@ global.market.xiaomi.com
 update.intl.miui.com
 data.mistat.intl.xiaomi.com
 
-# laat het ad wel zien
+#wildcard unblock
 /(\.|^)ad\.nl$/
 /(\.|^)dji\.com$/
 /(\.|^)tradedoubler\.com$/
 /(\.|^)doubleclick\.net$/
+||ojrq.net
+||mcssl.com
+||binance.com
+||bittrex.com
+||connatix.com
+||awin.com
 
 # laat website fonts zien
 fonts.gstatic.com
 
 # extra stuff
-connatix.com
 app.adjust.net.in
-awin.com
 
 # fix linkedin
 media-exp1.licdn.com
