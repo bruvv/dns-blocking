@@ -83,6 +83,21 @@ data.mistat.intl.xiaomi.com
 /(\.|^)ad\.nl$/
 /(\.|^)dji\.com$/
 /(\.|^)tradedoubler\.com$/
+/(\.|^)doubleclick\.net$/
 
 # laat website fonts zien
 fonts.gstatic.com
+
+# extra stuff
+connatix.com
+app.adjust.net.in
+awin.com
+
+# fix linkedin
+media-exp1.licdn.com
+
+# fix pinterest
+s.pinimg.com
+
+# skyscanner newsletter unblock
+ablink.sender.skyscanner.net
