@@ -43,8 +43,9 @@ data.mistat.intl.xiaomi.com
 #wildcard unblock
 /(\.|^)ad\.nl$/
 /(\.|^)dji\.com$/
-/(\.|^)tradedoubler\.com$/
-/(\.|^)doubleclick\.net$/
+||dji.com
+||tradedoubler.com
+||doubleclick.net
 ||ojrq.net
 ||mcssl.com
 ||binance.com
