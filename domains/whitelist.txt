@@ -44,10 +44,10 @@ data.mistat.intl.xiaomi.com
 /(\.|^)ad\.nl$/
 /(\.|^)dji\.com$/
 ||dji.com
-||tradedoubler.com
-||doubleclick.net
-||ojrq.net
-||mcssl.com
+#||tradedoubler.com
+#||doubleclick.net
+#||ojrq.net
+#||mcssl.com
 ||binance.com
 ||bittrex.com
 ||connatix.com
