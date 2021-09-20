@@ -51,6 +51,7 @@ data.mistat.intl.xiaomi.com
 ||binance.com
 ||bittrex.com
 ||vid.connatix.com
+||cd.connatix.com
 ||awin.com
 
 # laat website fonts zien
