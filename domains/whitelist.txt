@@ -6,13 +6,8 @@ cookie-script.com
 js.braintreegateway.com
 api.coinbase.com
 gfwsl.geforce.com
-partnerprogramma.bol.com
 s.youtube.com
 stats.vatsim.net
-affiliate.gearbest.com
-affiliate-program.amazon.de
-affiliate-program.amazon.com
-affiliate-program.amazon.nl
 track.synology.com
 _https._tcp.eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
 telemetry-ingestion.eu-frankfurt-1.oraclecloud.com
@@ -44,13 +39,10 @@ data.mistat.intl.xiaomi.com
 /(\.|^)ad\.nl$/
 /(\.|^)dji\.com$/
 ||dji.com
-#||tradedoubler.com
-#||doubleclick.net
-#||ojrq.net
-#||mcssl.com
 ||binance.com
 ||bittrex.com
-||connatix.com
+#||connatix.com
+vid.connatix.com
 ||awin.com
 
 # laat website fonts zien
