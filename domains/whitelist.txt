@@ -43,6 +43,7 @@ data.mistat.intl.xiaomi.com
 ||bittrex.com
 #||connatix.com
 vid.connatix.com
+cd.connatix.com
 capi.connatix.com
 ||awin.com
 
