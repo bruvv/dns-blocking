@@ -4,6 +4,7 @@ affiliate-program.amazon.de
 affiliate-program.amazon.com
 affiliate-program.amazon.nl
 tc.tradetracker.net
+shareasale.com
 #||tradedoubler.com
 #||doubleclick.net
 #||ojrq.net
