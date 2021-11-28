@@ -3,10 +3,10 @@ affiliate.gearbest.com
 affiliate-program.amazon.de
 affiliate-program.amazon.com
 affiliate-program.amazon.nl
-||tradetracker.net
-||shareasale.com
-||awin.com
-||tradedoubler.com
-||doubleclick.net
+@@||shareasale.com
+@@||tc.tradetracker.net
+@@||static.tradetracker.net
+@@||ad.doubleclick.net
+@@||pf.tradedoubler.com
 #||ojrq.net
 #||mcssl.com
