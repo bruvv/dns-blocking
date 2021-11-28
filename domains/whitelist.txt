@@ -60,3 +60,6 @@ s.pinimg.com
 
 # skyscanner newsletter unblock
 ablink.sender.skyscanner.net
+
+# fix spotify emails
+wl.spotify.com
