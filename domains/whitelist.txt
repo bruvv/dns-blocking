@@ -38,7 +38,6 @@ data.mistat.intl.xiaomi.com
 #wildcard unblock
 /(\.|^)ad\.nl$/
 /(\.|^)dji\.com$/
-||dji.com
 ||binance.com
 ||bittrex.com
 #||connatix.com
