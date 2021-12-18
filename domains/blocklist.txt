@@ -25,3 +25,4 @@ the-bitcoin-compass.com
 aflossen-belastlngdlenst.com
 # this is mostley used by mallwer people
 bit.do
+sovip86.com
