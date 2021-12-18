@@ -23,6 +23,6 @@ urlz.fr
 qa9e.com
 the-bitcoin-compass.com
 aflossen-belastlngdlenst.com
-# this is mostley used by mallwer people
+# this is mostley used by mallware
 bit.do
 sovip86.com
