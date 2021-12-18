@@ -1,7 +1,6 @@
 cdn.optimizely.com
 res.cloudinary.com
 prod.telemetry.ros.rockstargames.com
-s.click.aliexpress.com
 cookie-script.com
 js.braintreegateway.com
 api.coinbase.com
@@ -20,6 +19,9 @@ tracking.lengow.com
 info.bringme.com
 cdn.awsbj0.fds.api.mi-img.com
 kpngroup.emsecure.net
+app.images.compagniedesalpes.fr
+hpz.hopt.nl
+api.groupon.de
 
 # fix edge start menu
 arc.msn.com
