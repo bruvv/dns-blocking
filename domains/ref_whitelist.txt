@@ -8,6 +8,7 @@ tc.tradetracker.net
 static.tradetracker.net
 ad.doubleclick.net
 pf.tradedoubler.com
+publishers.tradedoubler.com
 track.webgains.com
 ojrq.net
 fr135.net
