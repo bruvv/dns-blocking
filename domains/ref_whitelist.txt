@@ -1,14 +1,12 @@
+/publishers-(.*)tradedoubler\.com/$important
+/affiliate-program\.amazon/
 partnerprogramma.bol.com
 affiliate.gearbest.com
-affiliate-program.amazon.de
-affiliate-program.amazon.com
-affiliate-program.amazon.nl
 shareasale.com
 tc.tradetracker.net
 static.tradetracker.net
 ad.doubleclick.net
 pf.tradedoubler.com
-publishers.tradedoubler.com
 track.webgains.com
 ojrq.net
 fr135.net
