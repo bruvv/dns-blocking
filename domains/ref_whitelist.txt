@@ -1,5 +1,5 @@
-/publishers(.*)tradedoubler\.com/$important
-/affiliate-program\.amazon/
+/publishers(.*)tradedoubler\.com$/
+/affiliate-program\.amazon$/
 partnerprogramma.bol.com
 affiliate.gearbest.com
 shareasale.com
