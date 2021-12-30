@@ -16,3 +16,6 @@ track.adtraction.com
 action.metaffiliation.com
 1drv.ms
 s.click.aliexpress.com
+publishers-media1.tradedoubler.com
+publishers-media2.tradedoubler.com
+publishers-media3.tradedoubler.com
