@@ -19,3 +19,7 @@ s.click.aliexpress.com
 publishers-media1.tradedoubler.com
 publishers-media2.tradedoubler.com
 publishers-media3.tradedoubler.com
+publishers-api1.tradedoubler.com
+publishers-api2.tradedoubler.com
+publishers-api3.tradedoubler.com
+publishers-api4.tradedoubler.com
