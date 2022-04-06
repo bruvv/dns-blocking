@@ -65,3 +65,10 @@ ablink.sender.skyscanner.net
 
 # fix spotify emails
 wl.spotify.com
+
+socialize.eu1.gigya.com
+eu-renaultgroup.netmng.com
+link.morningbrew.com
+privacyportal-de.onetrust.com
+api.eu-west-1.aiv-delivery.net
+
