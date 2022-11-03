@@ -1,35 +1,6 @@
-cdn.optimizely.com
-res.cloudinary.com
-prod.telemetry.ros.rockstargames.com
-cookie-script.com
-js.braintreegateway.com
-api.coinbase.com
-gfwsl.geforce.com
-s.youtube.com
-stats.vatsim.net
-track.synology.com
-_https._tcp.eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
-telemetry-ingestion.eu-frankfurt-1.oraclecloud.com
-telemetry.eu-frankfurt-1.oraclecloud.com
-eu-frankfurt-1-ad-3.clouds.archive.ubuntu.com
-sdk.privacy-center.org
-info.microsoft.com
-coinbase-consumer.sjv.io
-tracking.lengow.com
-info.bringme.com
-cdn.awsbj0.fds.api.mi-img.com
-kpngroup.emsecure.net
-app.images.compagniedesalpes.fr
-hpz.hopt.nl
-api.groupon.de
-
-# fix edge start menu
-arc.msn.com
-
 # zepp app stuff
 app.chat.global.xiaomi.net
 register.xmpush.global.xiaomi.com
-
 
 # update xiaomi phones
 account.xiaomi.com
@@ -43,16 +14,13 @@ data.mistat.intl.xiaomi.com
 ||binance.com
 ||bittrex.com
 #||connatix.com
-vid.connatix.com
-capi.connatix.com
-cd.connatix.com
-cds.connatix.com
+#vid.connatix.com
+#capi.connatix.com
+#cd.connatix.com
+#cds.connatix.com
 
 # laat website fonts zien
 fonts.gstatic.com
-
-# extra stuff
-app.adjust.net.in
 
 # fix linkedin
 media-exp1.licdn.com
@@ -65,10 +33,3 @@ ablink.sender.skyscanner.net
 
 # fix spotify emails
 wl.spotify.com
-
-socialize.eu1.gigya.com
-eu-renaultgroup.netmng.com
-link.morningbrew.com
-privacyportal-de.onetrust.com
-api.eu-west-1.aiv-delivery.net
-
