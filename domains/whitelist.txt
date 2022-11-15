@@ -33,3 +33,6 @@ ablink.sender.skyscanner.net
 
 # fix spotify emails
 wl.spotify.com
+
+# lidl stuff
+lidl.media01.eu
