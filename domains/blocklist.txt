@@ -27,3 +27,6 @@ aflossen-belastlngdlenst.com
 # this is mostley used by mallware
 bit.do
 sovip86.com
+
+# Apple tracking > https://www.youtube.com/watch?v=yDeoo9kWqRM
+xp.apple.com
