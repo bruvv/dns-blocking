@@ -1,4 +1,4 @@
-# zepp app stuff
+# zepp app stuff to allow nudges
 app.chat.global.xiaomi.net
 register.xmpush.global.xiaomi.com
 
@@ -9,15 +9,10 @@ update.intl.miui.com
 data.mistat.intl.xiaomi.com
 
 #wildcard unblock
+#ad.nl
 /(\.|^)ad\.nl$/
+#dji.com
 /(\.|^)dji\.com$/
-||binance.com
-||bittrex.com
-#||connatix.com
-#vid.connatix.com
-#capi.connatix.com
-#cd.connatix.com
-#cds.connatix.com
 
 # laat website fonts zien
 fonts.gstatic.com
