@@ -30,3 +30,6 @@ sovip86.com
 
 # Apple tracking > https://www.youtube.com/watch?v=yDeoo9kWqRM
 xp.apple.com
+
+# Funker adblock
+adglare.net
