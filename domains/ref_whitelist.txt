@@ -1,6 +1,11 @@
-/publishers(.*)tradedoubler\.com$/
+/(.*)tradedoubler\.com$/
 /affiliate-program\.amazon$/
+
+# bol.com
 partnerprogramma.bol.com
+partner.bol.com
+tracking.bol.com
+
 affiliate.gearbest.com
 shareasale.com
 tc.tradetracker.net
@@ -17,3 +22,4 @@ s.click.aliexpress.com
 disneyplus.bn5x.net
 skylum.evyy.net
 ojrq.net
+get.revolut.com
