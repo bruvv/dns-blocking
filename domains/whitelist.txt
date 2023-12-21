@@ -31,3 +31,6 @@ wl.spotify.com
 
 # lidl stuff
 lidl.media01.eu
+
+# onbekend
+cdn.eu1.exponea.com
