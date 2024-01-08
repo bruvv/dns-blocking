@@ -32,6 +32,13 @@ wl.spotify.com
 # lidl stuff
 lidl.media01.eu
 
+# Videoland android app fix
+cdn.cookielaw.org
+atconnect.npo.nl
+
+# NPO Android app fix
+topspin.npo.nl
+
 # onbekend
 cdn.eu1.exponea.com
 ojrq.net
@@ -39,3 +46,4 @@ events.split.io
 pangolin16.isnssdk.com
 sdk.fra-01.braze.eu
 serpens.iad.appboy.com
+click.linksynergy.com
