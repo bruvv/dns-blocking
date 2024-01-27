@@ -35,3 +35,7 @@ xp.apple.com
 
 # Funker adblock
 adglare.net
+
+# spam
+bnbstatic.com
+bnb-chainexchaing.online
