@@ -39,6 +39,9 @@ atconnect.npo.nl
 # NPO Android app fix
 topspin.npo.nl
 
+# To make hinge work
+sdk.split.io
+
 # onbekend
 cdn.eu1.exponea.com
 ojrq.net
