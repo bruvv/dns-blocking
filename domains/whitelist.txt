@@ -43,6 +43,10 @@ topspin.npo.nl
 sdk.split.io
 events.split.io
 
+# Unblock email
+go.eu.sparkpostmail1.com
+d1kv-t04.eu1.hubspotlinks.com
+
 # onbekend
 cdn.eu1.exponea.com
 ojrq.net
