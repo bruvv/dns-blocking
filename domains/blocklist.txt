@@ -13,6 +13,9 @@ adglare.net
 # Yahoo weather tracker
 weather-ydn-yql.media.yahoo.com
 
+# Reddit metrics: https://www.reddit.com/r/answers/comments/6snbxv/what_is_the_function_of_eredditcom/
+e.reddit.com
+
 # spam, scams, warez and hacks (dutch sites mostly)
 belastingdienst.te-betalen.com
 klaviyo.com
