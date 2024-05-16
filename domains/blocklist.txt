@@ -1,15 +1,5 @@
-earnmoney.network
-euroclix.nl
-yinshangxin.cn
-shyqxxy.com
-kotuo.cn
+# Oneplus tracking
 router.oneplus.com
-weather-ydn-yql.media.yahoo.com
-goodusahost.cn
-customer-club.com
-statcounter.com
-
-# regex test:
 # routergtest14.oneplus.com
 #routergtest\d+\.oneplus\.com
 /routergtest\d+\.oneplus\.com/
@@ -20,8 +10,18 @@ xp.apple.com
 # Funker adblock
 adglare.net
 
-# spam/warez and hacks
+# Yahoo weather tracker
+weather-ydn-yql.media.yahoo.com
+
+# spam, scams, warez and hacks (dutch sites mostly)
+yinshangxin.cn
+shyqxxy.com
+kotuo.cn
 ing-applicatie.site
+goodusahost.cn
+earnmoney.network
+customer-club.com
+statcounter.com
 betalingen-nl.info
 betaalpas-rabo.xyz
 postnlnotificatie.link
