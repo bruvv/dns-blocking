@@ -13,8 +13,9 @@ graph.workplace.com
 
 # regex test:
 # routergtest14.oneplus.com
+#routergtest\d+\.oneplus\.com
 /routergtest\d+\.oneplus\.com/
-/.*\.xyz$/
+#/.*\.xyz$/
 
 # Apple tracking > https://www.youtube.com/watch?v=yDeoo9kWqRM
 xp.apple.com
