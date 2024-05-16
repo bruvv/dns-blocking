@@ -14,6 +14,8 @@ adglare.net
 weather-ydn-yql.media.yahoo.com
 
 # spam, scams, warez and hacks (dutch sites mostly)
+belastingdienst.te-betalen.com
+klaviyo.com
 yinshangxin.cn
 shyqxxy.com
 kotuo.cn
