@@ -8,8 +8,6 @@ weather-ydn-yql.media.yahoo.com
 goodusahost.cn
 customer-club.com
 statcounter.com
-graph.instagram.com
-graph.workplace.com
 
 # regex test:
 # routergtest14.oneplus.com
