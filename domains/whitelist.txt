@@ -47,6 +47,12 @@ events.split.io
 go.eu.sparkpostmail1.com
 d1kv-t04.eu1.hubspotlinks.com
 
+# Qualcom agps data whitelist
+xtracloud.net
+
+# Allow plexdirect connections
+plex.direct
+
 # onbekend
 cdn.eu1.exponea.com
 ojrq.net
