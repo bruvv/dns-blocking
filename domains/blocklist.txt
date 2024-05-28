@@ -17,6 +17,7 @@ weather-ydn-yql.media.yahoo.com
 e.reddit.com
 
 # spam, scams, warez and hacks (dutch sites mostly)
+uw-rekening.com
 belastingdienst.te-betalen.com
 klaviyo.com
 yinshangxin.cn
