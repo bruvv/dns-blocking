@@ -40,7 +40,7 @@ jobs:
           git config --local user.name "GitHub Action"
 
       - name: Pull latest changes
-        run: git pull origin main --rebase # Ensure you are pulling from the correct branch
+        run: git pull origin main
 
       - name: Commit backup files
         run: |
