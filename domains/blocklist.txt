@@ -1,14 +1,12 @@
 # Oneplus tracking
 router.oneplus.com
-# routergtest14.oneplus.com
+routergtest14.oneplus.com
 #routergtest\d+\.oneplus\.com
 /routergtest\d+\.oneplus\.com/
 
 # Apple tracking > https://www.youtube.com/watch?v=yDeoo9kWqRM
-xp.apple.com
-
-# Funker adblock
-adglare.net
+# Breaks itunes if you enable this
+# xp.apple.com
 
 # Yahoo weather tracker
 weather-ydn-yql.media.yahoo.com

@@ -23,13 +23,10 @@ jobs:
           pip install requests
 
       - name: Clean and save URLs
-        run: python checker.py # Assumes you name your script clean_urls.py
+        run: python checker.py
 
-      - name: Upload cleaned files
-        uses: actions/upload-artifact@v4
-        with:
-          name: cleaned-url-files
-          path: cleaned/
+      - name: Sync to cleaned directory
+        run: python -c 'from checker import process_all_files; process_all_files("domains", "cleaned")'
 
       - name: Sync to backup directory
         run: python -c 'from checker import sync_files; sync_files("cleaned", "backup")'
