@@ -1,41 +1,55 @@
+import requests
 import os
-import shutil
+import logging
+
+# Set up logging
+logging.basicConfig(
+    level=logging.ERROR,
+    filename="error.log",
+    filemode="w",
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
 
 
-def clean_and_save_file(original_file, output_dir):
-    with open(original_file, "r") as file:
+def check_url(url):
+    try:
+        response = requests.head(url, timeout=5, allow_redirects=True)
+        # Consider successful if the status code is less than 400
+        return response.status_code < 400
+    except requests.exceptions.RequestException as e:
+        # Log only failed requests
+        logging.error(f"Error accessing {url}: {e}")
+        return False
+
+
+def process_file(file_path, output_dir):
+    with open(file_path, "r") as file:
         lines = file.readlines()
 
-    cleaned_lines = [
-        line for line in lines if not line.strip().startswith("#") and line.strip()
-    ]
-
     os.makedirs(output_dir, exist_ok=True)
-    cleaned_file_path = os.path.join(output_dir, os.path.basename(original_file))
+    output_file_path = os.path.join(output_dir, os.path.basename(file_path))
 
-    with open(cleaned_file_path, "w") as file:
-        file.writelines(cleaned_lines)
+    with open(output_file_path, "w") as file:
+        for line in lines:
+            if line.strip() and not line.strip().startswith("#"):
+                url = (
+                    f"http://{line.strip()}"
+                    if not line.strip().startswith("http")
+                    else line.strip()
+                )
+                if check_url(url):
+                    file.write(line)
 
 
-def process_all_txt_files(input_folder, output_folder):
-    for filename in os.listdir(input_folder):
+def process_all_files(folder, output_folder):
+    for filename in os.listdir(folder):
         if filename.endswith(".txt"):
-            file_path = os.path.join(input_folder, filename)
-            clean_and_save_file(file_path, output_folder)
+            process_file(os.path.join(folder, filename), output_folder)
 
 
-def sync_files(source_dir, backup_dir):
-    os.makedirs(backup_dir, exist_ok=True)
-    for file_name in os.listdir(source_dir):
-        source_file = os.path.join(source_dir, file_name)
-        backup_file = os.path.join(backup_dir, file_name)
-        shutil.copy2(source_file, backup_file)
+# Directory setup
+input_folder = "domains"
+output_folder = "cleaned"
 
-
-# Example usage
-input_folder = "domains"  # Folder where the original .txt files are located
-output_folder = "cleaned"  # Folder where the cleaned files will be saved
-backup_folder = "backup"  # Folder where the cleaned files will be backed up
-
-process_all_txt_files(input_folder, output_folder)
-sync_files(output_folder, backup_folder)
+# Processing
+process_all_files(input_folder, output_folder)
