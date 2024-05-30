@@ -1,0 +1,37 @@
+name: Weekly URL Cleaning and Backup
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Runs at 00:00 every Sunday
+
+jobs:
+  clean-and-backup-urls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
+
+      - name: Clean and save URLs
+        run: python checker.py # Assumes you name your script clean_urls.py
+
+      - name: Upload cleaned files
+        uses: actions/upload-artifact@v2
+        with:
+          name: cleaned-url-files
+          path: cleaned/
+
+      - name: Sync to backup directory
+        run: python -c 'from checker import sync_files; sync_files("cleaned", "backup")'
+
+      - name: Commit backup files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add backup/
+          git commit -m "Backup cleaned URL files" || echo "No changes to commit"
+          git push
