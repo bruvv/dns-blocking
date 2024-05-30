@@ -1,6 +1,7 @@
 name: Weekly URL Cleaning and Backup
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0" # Runs at 00:00 every Sunday
 
