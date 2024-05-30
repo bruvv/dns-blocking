@@ -34,10 +34,16 @@ jobs:
       - name: Sync to backup directory
         run: python -c 'from checker import sync_files; sync_files("cleaned", "backup")'
 
-      - name: Commit backup files
+      - name: Configure Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+      - name: Pull latest changes
+        run: git pull origin main --rebase # Ensure you are pulling from the correct branch
+
+      - name: Commit backup files
+        run: |
           git add backup/
           git commit -m "Backup cleaned URL files" || echo "No changes to commit"
           git push
