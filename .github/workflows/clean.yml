@@ -41,6 +41,7 @@ jobs:
 
       - name: Commit backup files
         run: |
-          git add backup/
+          git add backup/*
+          git add cleaned/*
           git commit -m "Backup cleaned URL files" || echo "No changes to commit"
           git push
