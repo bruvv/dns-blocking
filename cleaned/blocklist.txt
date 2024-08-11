@@ -4,3 +4,4 @@ earnmoney.network
 statcounter.com
 mediapart.fr
 s.id
+urlz.fr

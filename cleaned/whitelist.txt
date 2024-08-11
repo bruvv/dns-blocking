@@ -6,4 +6,3 @@ lidl.media01.eu
 atconnect.npo.nl
 d1kv-t04.eu1.hubspotlinks.com
 cdn.eu1.exponea.com
-sdk.fra-01.braze.eu
