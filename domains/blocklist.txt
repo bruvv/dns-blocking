@@ -44,5 +44,10 @@ s.id
 startq.me
 urlz.fr
 qa9e.com
-the-bitcoin-compass.com
 aflossen-belastlngdlenst.com
+schuld-betalen.net
+simicloud.com
+
+# Bitcoin stealers
+spacex-events.org
+the-bitcoin-compass.com
