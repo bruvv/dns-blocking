@@ -6,6 +6,11 @@ partnerprogramma.bol.com
 partner.bol.com
 tracking.bol.com
 
+# pepper
+nl-pepper.digidip.net
+
+ubisoft.pxf.io
+redir.digidip.net
 affiliate.gearbest.com
 shareasale.com
 tc.tradetracker.net
