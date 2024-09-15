@@ -4,3 +4,5 @@ statcounter.com
 mediapart.fr
 s.id
 urlz.fr
+simicloud.com
+spacex-events.org

@@ -1,6 +1,7 @@
 partnerprogramma.bol.com
 partner.bol.com
 tracking.bol.com
+nl-pepper.digidip.net
 shareasale.com
 tc.tradetracker.net
 ad.doubleclick.net
