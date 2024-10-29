@@ -2,6 +2,10 @@
 app.chat.global.xiaomi.net
 register.xmpush.global.xiaomi.com
 
+# Apple related domains
+smooth.apple.com
+xp.apple.com
+
 # update xiaomi phones
 account.xiaomi.com
 global.market.xiaomi.com
