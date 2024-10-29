@@ -8,6 +8,9 @@ routergtest14.oneplus.com
 # Breaks itunes if you enable this
 # xp.apple.com
 
+# Microsoft tracking for EU
+eu-mobile.events.data.microsoft.com
+
 # Yahoo weather tracker
 weather-ydn-yql.media.yahoo.com
 
