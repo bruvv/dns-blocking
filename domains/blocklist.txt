@@ -1,6 +1,11 @@
 # block extra tracker used in differend apps
 sentry.io
 
+# dumpert adblocking
+cxense.com
+prebid-server.rubiconproject.com
+sb.scorecardresearch.com
+
 # Oneplus tracking
 router.oneplus.com
 routergtest14.oneplus.com
