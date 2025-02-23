@@ -54,3 +54,12 @@ simicloud.com
 # Bitcoin stealers
 spacex-events.org
 the-bitcoin-compass.com
+
+# marktplaats related tracking links
+faas.marktplaats.nl
+cdn4.userzoom.com
+
+
+
+
+
