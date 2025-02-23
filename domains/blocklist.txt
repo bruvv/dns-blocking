@@ -6,6 +6,7 @@ routergtest14.oneplus.com
 
 # vinted trackers
 api-sdk.datadome.co
+sdk.fra-01.braze.eu
 
 # Apple tracking > https://www.youtube.com/watch?v=yDeoo9kWqRM
 # Breaks itunes if you enable this
