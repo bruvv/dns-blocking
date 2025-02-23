@@ -4,6 +4,9 @@ routergtest14.oneplus.com
 #routergtest\d+\.oneplus\.com
 /routergtest\d+\.oneplus\.com/
 
+# vinted trackers
+api-sdk.datadome.co
+
 # Apple tracking > https://www.youtube.com/watch?v=yDeoo9kWqRM
 # Breaks itunes if you enable this
 # xp.apple.com
