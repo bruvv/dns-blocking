@@ -1,3 +1,6 @@
+sentry.io
+cxense.com
+sb.scorecardresearch.com
 klaviyo.com
 yinshangxin.cn
 kotuo.cn
@@ -8,3 +11,4 @@ mediapart.fr
 s.id
 urlz.fr
 simicloud.com
+cdn4.userzoom.com
