@@ -30,6 +30,9 @@ weather-ydn-yql.media.yahoo.com
 # Apparently this breaks the officeal reddit app: https://www.reddit.com/r/pihole/comments/zy1oor/some_adlists_can_block_reddit_feed_updates/
 # e.reddit.com
 
+# NPO app tracker
+topspin.npo.nl
+
 # Mostly dutch phishing sites
 uw-rekening.com
 belastingdienst.te-betalen.com
