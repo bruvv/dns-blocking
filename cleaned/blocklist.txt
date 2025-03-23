@@ -8,6 +8,7 @@ kotuo.cn
 statcounter.com
 psuec.com
 mediapart.fr
+s.id
 urlz.fr
 simicloud.com
 cdn4.userzoom.com
