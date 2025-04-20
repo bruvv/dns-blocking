@@ -1,6 +1,3 @@
-partnerprogramma.bol.com
-partner.bol.com
-tracking.bol.com
 nl-pepper.digidip.net
 shareasale.com
 tc.tradetracker.net
@@ -11,4 +8,3 @@ track.adtraction.com
 action.metaffiliation.com
 s.click.aliexpress.com
 t.mention-me.email
-t.co
