@@ -8,3 +8,4 @@ track.adtraction.com
 action.metaffiliation.com
 s.click.aliexpress.com
 t.mention-me.email
+t.co
