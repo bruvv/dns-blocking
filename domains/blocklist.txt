@@ -75,3 +75,7 @@ the-bitcoin-compass.com
 # marktplaats related tracking links
 faas.marktplaats.nl
 cdn4.userzoom.com
+
+# videoanalytics
+litix.io
+
