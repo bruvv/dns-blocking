@@ -1,0 +1,36 @@
+# block extra tracker used in differend apps
+
+# dumpert adblocking
+
+# Oneplus tracking
+#routergtest\d+\.oneplus\.com
+/routergtest\d+\.oneplus\.com/
+
+# vinted trackers
+sdk.fra-01.braze.eu
+
+# Apple tracking > https://www.youtube.com/watch?v=yDeoo9kWqRM
+# Breaks itunes if you enable this
+# xp.apple.com
+
+# Microsoft tracking for EU
+
+# Yahoo weather tracker
+
+# Reddit metrics: https://www.reddit.com/r/answers/comments/6snbxv/what_is_the_function_of_eredditcom/
+# Apparently this breaks the officeal reddit app: https://www.reddit.com/r/pihole/comments/zy1oor/some_adlists_can_block_reddit_feed_updates/
+# e.reddit.com
+
+# NPO app tracker
+
+# Mostly dutch phishing sites
+klaviyo.com
+mediapart.fr
+s.id
+urlz.fr
+
+# Bitcoin stealers
+
+# marktplaats related tracking links
+
+# videoanalytics

@@ -1,8 +1,0 @@
-account.xiaomi.com
-global.market.xiaomi.com
-ablink.sender.skyscanner.net
-wl.spotify.com
-lidl.media01.eu
-atconnect.npo.nl
-d1kv-t04.eu1.hubspotlinks.com
-cdn.eu1.exponea.com
