@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   clean:
@@ -27,6 +27,18 @@ jobs:
 
       - name: Clean blocklist
         run: python scripts/clean_blocklist.py
+
+      - name: Commit cleaned blocklist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --short -- cleaned/blocklist.txt)" ]; then
+            git add cleaned/blocklist.txt
+            git commit -m "Update cleaned blocklist [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No changes to commit"
+          fi
 
       - name: Upload cleaned blocklist artifact
         uses: actions/upload-artifact@v4
