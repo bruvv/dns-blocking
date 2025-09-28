@@ -71,6 +71,8 @@ click.justwatch.com
 
 # allow unifi test domain for ping
 example-domain.ui.com
+# fingerprinting for unifi
+fprint-ml-poc.dev.svc.ui.com
 
 # Signal uptime checker
 uptime.signal.org
