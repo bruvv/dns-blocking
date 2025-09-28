@@ -13,6 +13,8 @@ smooth.apple.com
 xp.apple.com
 # for icloud email photos while using VPN
 cloudfront.net
+apple-relay.cloudflare.com
+mask-api.icloud.com
 
 # update xiaomi phones
 account.xiaomi.com
@@ -63,8 +65,9 @@ d1kv-t04.eu1.hubspotlinks.com
 # Qualcom agps data whitelist
 xtracloud.net
 
-# Allow plexdirect connections
+# Plex Allow plexdirect connections and watch more in plex
 plex.direct
+click.justwatch.com
 
 # allow unifi test domain for ping
 example-domain.ui.com
@@ -74,6 +77,12 @@ uptime.signal.org
 
 # AH zelfscan fixen
 selfscan.store.ah.nl
+
+# fix polarsteps tracking
+track.polarsteps.com
+
+# Allow mapbox events
+events.mapbox.com
 
 # onbekend
 cdn.eu1.exponea.com
