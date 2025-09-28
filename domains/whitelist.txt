@@ -11,8 +11,6 @@ register.xmpush.global.xiaomi.com
 # Apple related domains
 smooth.apple.com
 xp.apple.com
-# for icloud email photos while using VPN
-cloudfront.net
 apple-relay.cloudflare.com
 mask-api.icloud.com
 
@@ -58,9 +56,11 @@ fairplay.npo.nl
 sdk.split.io
 events.split.io
 
-# Unblock email
+# Unblock email photos
 go.eu.sparkpostmail1.com
 d1kv-t04.eu1.hubspotlinks.com
+cdn.braze.eu
+cloudfront.net
 
 # Qualcom agps data whitelist
 xtracloud.net
