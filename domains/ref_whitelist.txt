@@ -8,10 +8,11 @@ tracking.bol.com
 
 # pepper
 digidip.net
-nl-pepper.digidip.net
+partner.hema.nl
+pxf.io
+dwin2.com
+awin1.com
 
-ubisoft.pxf.io
-redir.digidip.net
 affiliate.gearbest.com
 shareasale.com
 tc.tradetracker.net
@@ -30,7 +31,6 @@ skylum.evyy.net
 ojrq.net
 get.revolut.com
 t.mention-me.email
-geekbuying.pxf.io
 click.pstmrk.it
 tracking.publicidees.com
 t.co
