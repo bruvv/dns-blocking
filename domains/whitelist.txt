@@ -1,3 +1,9 @@
+# allow dawarich titles for map showing
+tyles.dwri.xyz
+
+# Brave browser ads for rewards just whitelist it all
+brave.com
+
 # zepp app stuff to allow nudges
 app.chat.global.xiaomi.net
 register.xmpush.global.xiaomi.com
@@ -5,6 +11,8 @@ register.xmpush.global.xiaomi.com
 # Apple related domains
 smooth.apple.com
 xp.apple.com
+# for icloud email photos while using VPN
+cloudfront.net
 
 # update xiaomi phones
 account.xiaomi.com
@@ -38,10 +46,11 @@ lidl.media01.eu
 
 # Videoland android app fix
 cdn.cookielaw.org
-atconnect.npo.nl
 
 # NPO Android app fix
 topspin.npo.nl
+atconnect.npo.nl
+fairplay.npo.nl
 
 # To make hinge work
 sdk.split.io
@@ -56,6 +65,15 @@ xtracloud.net
 
 # Allow plexdirect connections
 plex.direct
+
+# allow unifi test domain for ping
+example-domain.ui.com
+
+# Signal uptime checker
+uptime.signal.org
+
+# AH zelfscan fixen
+selfscan.store.ah.nl
 
 # onbekend
 cdn.eu1.exponea.com
