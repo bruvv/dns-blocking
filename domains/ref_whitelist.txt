@@ -7,6 +7,7 @@ partner.bol.com
 tracking.bol.com
 
 # pepper
+digidip.net
 nl-pepper.digidip.net
 
 ubisoft.pxf.io
