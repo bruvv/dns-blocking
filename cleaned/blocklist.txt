@@ -43,7 +43,6 @@ urlz.fr
 simicloud.com
 
 # Bitcoin stealers
-spacex-events.org
 
 # marktplaats related tracking links
 faas.marktplaats.nl
