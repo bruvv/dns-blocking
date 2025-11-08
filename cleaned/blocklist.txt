@@ -42,6 +42,7 @@ mediapart.fr
 s.id
 urlz.fr
 simicloud.com
+betaling-o6234.net
 
 # Bitcoin stealers
 
