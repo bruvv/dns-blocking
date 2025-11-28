@@ -33,7 +33,6 @@ atconnect.npo.nl
 # Mostly dutch phishing sites
 klaviyo.com
 goodusahost.cn
-earnmoney.network
 statcounter.com
 bit.do
 psuec.com
