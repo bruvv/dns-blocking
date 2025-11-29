@@ -32,6 +32,7 @@ atconnect.npo.nl
 
 # Mostly dutch phishing sites
 klaviyo.com
+yinshangxin.cn
 goodusahost.cn
 statcounter.com
 bit.do
