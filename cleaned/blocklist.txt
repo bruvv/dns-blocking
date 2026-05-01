@@ -28,7 +28,6 @@ eu-mobile.events.data.microsoft.com
 
 # NPO app tracker
 topspin.npo.nl
-atconnect.npo.nl
 
 # Mostly dutch phishing sites
 klaviyo.com
